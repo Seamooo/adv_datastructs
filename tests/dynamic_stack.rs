@@ -37,4 +37,4 @@ fn display() {
         stack.push(i);
     }
     stack.display();
-
+}
